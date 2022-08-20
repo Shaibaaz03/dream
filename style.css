@@ -1,0 +1,97 @@
+
+body {
+  background: #F9CEEE;
+}
+
+
+h1 {
+  font-family: "inter";
+  text-align: center;
+  padding-top: 30px;
+  color: #fff;
+  font-size: 27px;
+}
+
+h2 {
+  padding-top: 400px;
+  padding-left: 40px;
+}
+
+.btn3 {
+  margin-top: 50px;
+  height:60px;
+  width: 200px;
+  background: #F190B7;
+  border: none;
+  border-radius: 9px;
+}
+
+
+
+span {
+  font-size: 18px;
+  font-family: "inter";
+  font-weight: 600;
+  color: #fff;
+}
+
+.qn {
+  text-align: center;
+  margin-top: 110px;
+}
+
+
+.aaaa {
+  display: flex;
+  position: absolute;
+  height: 300px;
+}
+
+.input-box {
+  width: 400px;
+  height: 60px;
+  font-weight: 500;
+  border: 0px;
+  border-radius: 16px;
+  padding-left: 20px;
+}
+
+.input-box {
+  width: 400px;
+  height: 60px;
+  font-weight: 500;
+  border: none;
+  border-radius: 16px;
+  padding: 0 18px 0 18px;
+  padding-left: 20px;
+}
+
+::placeholder {
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.user-details-1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.user-details-2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.user-details-3 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.note {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.note1{
+  color: #112B3C;
+}
